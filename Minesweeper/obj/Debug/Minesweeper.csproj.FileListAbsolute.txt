@@ -1,0 +1,32 @@
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Angel\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\obj\Debug\Minesweeper.Form2.resources
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Angel\Desktop\Programming\c_sharp\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.Form2.resources
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Angel Crawford\Desktop\c_sharp\Minesweeper\obj\Debug\Minesweeper.pdb
